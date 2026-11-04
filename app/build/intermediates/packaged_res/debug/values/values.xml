@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#3B82F6</color>
+    <color name="bg_page">#F0F2F5</color>
+    <color name="progress_bg">#E5E7EB</color>
+    <color name="progress_end">#8B5CF6</color>
+    <color name="progress_start">#3B82F6</color>
+    <color name="text_body">#4B5563</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="action_settings">设置</string>
+    <string name="app_name">goToWork</string>
+    <string name="label_countdown">距离下班</string>
+    <string name="label_daypay">今日满勤</string>
+    <string name="label_earned">今日已赚</string>
+    <string name="label_hour">时薪</string>
+    <string name="label_month">本月累计</string>
+    <string name="label_payday">距发薪日</string>
+    <string name="label_progress">已工作</string>
+    <string name="label_rate">赚钱速度</string>
+    <string name="lunch_end_hour">午休结束（点）</string>
+    <string name="lunch_start_hour">午休开始（点）</string>
+    <string name="pay_day">每月发薪日（号）</string>
+    <string name="salary_month">月薪（元）</string>
+    <string name="save">保存</string>
+    <string name="save_start">保存并开始</string>
+    <string name="settings_title">薪资设置</string>
+    <string name="work_days_month">月工作天数</string>
+    <string name="work_end_hour">下班时间（点）</string>
+    <string name="work_start_hour">上班时间（点）</string>
+    <style name="Theme.goToWork" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_page</item>
+        <item name="android:windowBackground">@color/bg_page</item>
+    </style>
+</resources>

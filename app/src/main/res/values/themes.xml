@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.goToWork" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_page</item>
+        <item name="android:windowBackground">@color/bg_page</item>
+    </style>
+</resources>
